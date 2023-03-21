@@ -1,5 +1,5 @@
 # Face_Recognition_Based_Attendance_System
-#Project Dependencies you need to install(pip install):
+#Project Dependencies you need to install(pip install):\n
 	1- cv2
 	2- cmake
 	3- dlib (if pip install command dosen't works there is a file name "DLIB" which has dlib file so install
